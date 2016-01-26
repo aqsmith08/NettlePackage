@@ -1,0 +1,8 @@
+Package: NettlePackage
+Title: Nettlesome Oft-Used and Frequently Useful Functions	
+Version: 0.0.0.9000
+Description:Useful functions. Use load_all or risk seeing errors upon execution. 
+Author@R: Christopher Mann <ctmann@gmail.com> [cre]
+Depends: R (>= 3.2.0)
+License: What license is it under?
+LazyData: true
