@@ -12,3 +12,15 @@ library("readr")
 library("lubridate")
 library(formatR)
 }
+
+LoadHadleyPackages <- function() {
+	# Loads my favorite Hadley Wickham packages
+	library("dplyr")
+	library("tidyr")
+	library("stringr")
+	library("ggplot2")
+	library("readxl")
+	library("readr")
+	library("lubridate")
+	library(formatR)
+}
