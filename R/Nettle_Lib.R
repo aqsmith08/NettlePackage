@@ -22,5 +22,5 @@ LoadHadleyPackages <- function() {
 	library("readxl")
 	library("readr")
 	library("lubridate")
-	library(formatR)
+	library("formatR")
 }
